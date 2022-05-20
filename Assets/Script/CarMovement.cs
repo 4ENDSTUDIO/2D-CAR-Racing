@@ -11,7 +11,7 @@ public class CarMovement : MonoBehaviour
     Rigidbody2D rb;
 
     float X;
-    float Y = 1;
+    float Y ;
 
     private void Start()
     {
@@ -21,7 +21,7 @@ public class CarMovement : MonoBehaviour
     private void Update()
     {
         X = Input.GetAxis("Horizontal");
-
+        Y = Input.GetAxis("Vertical");
         Vector2 speed = transform.up * (Y * acc);
         rb.AddForce(speed);
 
@@ -52,5 +52,10 @@ public class CarMovement : MonoBehaviour
 
         Debug.DrawLine(rb.position, rb.GetRelativePoint(relativeForce), Color.green);
 
+    }
+
+    private void FixedUpdate()
+    {
+        
     }
 }
