@@ -99,7 +99,7 @@ EdgeCollider2D:
   m_Offset: {x: 0, y: 0}
   m_EdgeRadius: 0
   m_Points:
-  - {x: -2.516983, y: -3.4389126}
+  - {x: -1.8861282, y: -3.4057238}
   - {x: 2.4944673, y: -3.374606}
 --- !u!68 &3832142373754321679
 EdgeCollider2D:
@@ -117,5 +117,5 @@ EdgeCollider2D:
   m_Offset: {x: 0, y: 0}
   m_EdgeRadius: 0
   m_Points:
-  - {x: -2.559598, y: 3.4067628}
+  - {x: -1.9512817, y: 3.3732545}
   - {x: 2.538686, y: 3.3746288}
