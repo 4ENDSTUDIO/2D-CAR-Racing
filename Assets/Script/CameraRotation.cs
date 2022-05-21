@@ -38,13 +38,18 @@ public class CameraRotation : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        Debug.Log("Hit");
-        if (triggerCount == 4)
-            triggerCount = 0;
+        if (collision.tag == "Player")
+        {
+            Debug.Log("Hit");
+            if (triggerCount == 4)
+                triggerCount = 0;
 
-        triggerCount += 1;
+            triggerCount += 1;
 
-        CanRotate = true;
+            CanRotate = true;
+
+        }
+           
 
     }
 }

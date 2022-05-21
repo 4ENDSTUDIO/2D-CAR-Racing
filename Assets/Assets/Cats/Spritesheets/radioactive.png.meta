@@ -1,0 +1,1472 @@
+fileFormatVersion: 2
+guid: 70b8e84e313d37a4280675ae471b85fc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7414440108980307814
+    second: radioactive_0
+  - first:
+      213: -8427322699250904977
+    second: radioactive_1
+  - first:
+      213: -6903099411829279711
+    second: radioactive_2
+  - first:
+      213: -4533024362925137012
+    second: radioactive_3
+  - first:
+      213: -4797641741509541736
+    second: radioactive_4
+  - first:
+      213: 5345567709782867675
+    second: radioactive_5
+  - first:
+      213: 6759459654500964762
+    second: radioactive_6
+  - first:
+      213: -1917194085675633281
+    second: radioactive_7
+  - first:
+      213: 4957836450142715622
+    second: radioactive_8
+  - first:
+      213: 1874788948242098332
+    second: radioactive_9
+  - first:
+      213: -2376581675526685119
+    second: radioactive_10
+  - first:
+      213: -4396502183811049114
+    second: radioactive_11
+  - first:
+      213: -2006382469719502477
+    second: radioactive_12
+  - first:
+      213: -8427130566430620053
+    second: radioactive_13
+  - first:
+      213: -1268988505910111580
+    second: radioactive_14
+  - first:
+      213: 7713285210932535604
+    second: radioactive_15
+  - first:
+      213: -5364481100611106517
+    second: radioactive_16
+  - first:
+      213: -4121478451853799597
+    second: radioactive_17
+  - first:
+      213: 1659197321713585044
+    second: radioactive_18
+  - first:
+      213: 7537682990221786415
+    second: radioactive_19
+  - first:
+      213: 2252568587266988106
+    second: radioactive_20
+  - first:
+      213: -7056706488751192174
+    second: radioactive_21
+  - first:
+      213: -4347237159776703505
+    second: radioactive_22
+  - first:
+      213: -3413867483097508707
+    second: radioactive_23
+  - first:
+      213: 2604838079739697559
+    second: radioactive_24
+  - first:
+      213: -862195701394953657
+    second: radioactive_25
+  - first:
+      213: 7343008168073977735
+    second: radioactive_26
+  - first:
+      213: -4622342422569023283
+    second: radioactive_27
+  - first:
+      213: -331284066315529133
+    second: radioactive_28
+  - first:
+      213: -1189225928622951289
+    second: radioactive_29
+  - first:
+      213: -128102727760804052
+    second: radioactive_30
+  - first:
+      213: -5680345107497344449
+    second: radioactive_31
+  - first:
+      213: -301142788522914247
+    second: radioactive_32
+  - first:
+      213: 7249980309771554137
+    second: radioactive_33
+  - first:
+      213: 9018564650653907800
+    second: radioactive_34
+  - first:
+      213: 4503885207598725833
+    second: radioactive_35
+  - first:
+      213: -5084013222201433133
+    second: radioactive_36
+  - first:
+      213: 761885583976393830
+    second: radioactive_37
+  - first:
+      213: 5873588964573783535
+    second: radioactive_38
+  - first:
+      213: -7694015280069581532
+    second: radioactive_39
+  - first:
+      213: 8047284400347461299
+    second: radioactive_40
+  - first:
+      213: 2586488689577106519
+    second: radioactive_41
+  - first:
+      213: -1077269007058871009
+    second: radioactive_42
+  - first:
+      213: -7762802962449235420
+    second: radioactive_43
+  - first:
+      213: 505756529906574797
+    second: radioactive_44
+  - first:
+      213: -6695286456010237734
+    second: radioactive_45
+  - first:
+      213: 5047947844022314311
+    second: radioactive_46
+  - first:
+      213: 7038706957131369518
+    second: radioactive_47
+  - first:
+      213: -494830736460137507
+    second: radioactive_48
+  - first:
+      213: 4334770094727459799
+    second: radioactive_49
+  - first:
+      213: 1838669017976059039
+    second: radioactive_50
+  - first:
+      213: 5328276242673144699
+    second: radioactive_51
+  - first:
+      213: -6319870657273327782
+    second: radioactive_52
+  - first:
+      213: -3666928371123483764
+    second: radioactive_53
+  - first:
+      213: -2179193985812939974
+    second: radioactive_54
+  - first:
+      213: -3373114927712259959
+    second: radioactive_55
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: radioactive_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 488
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a98f1d7110e9a1990800000000000000
+      internalID: -7414440108980307814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radioactive_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 488
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f605097a7a22c0b80800000000000000
+      internalID: -8427322699250904977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radioactive_2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 488
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12435bcb8a34330a0800000000000000
+      internalID: -6903099411829279711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radioactive_3
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 488
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83e7a1eb567711c0800000000000000
+      internalID: -4533024362925137012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radioactive_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 456
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 890ccbd414a5b6db0800000000000000
+      internalID: -4797641741509541736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radioactive_5
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 456
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdef76092854f2a40800000000000000
+      internalID: 5345567709782867675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radioactive_6
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 456
+        width: 29
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a995d1c1ebc6ecd50800000000000000
+      internalID: 6759459654500964762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radioactive_7
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 456
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f75f2d50322c465e0800000000000000
+      internalID: -1917194085675633281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radioactive_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 424
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee7d31dbf5cdc440800000000000000
+      internalID: 4957836450142715622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radioactive_9
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 392
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c986cc88d96940a10800000000000000
+      internalID: 1874788948242098332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radioactive_10
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 392
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e778ace8fa40fd0800000000000000
+      internalID: -2376581675526685119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radioactive_11
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 392
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66996b7be8c7cf2c0800000000000000
+      internalID: -4396502183811049114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radioactive_12
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 392
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3715cc826c5e724e0800000000000000
+      internalID: -2006382469719502477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radioactive_13
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 360
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6601101661dc0b80800000000000000
+      internalID: -8427130566430620053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radioactive_14
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 360
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a29c216da5a36ee0800000000000000
+      internalID: -1268988505910111580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radioactive_15
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 360
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43168e858081b0b60800000000000000
+      internalID: 7713285210932535604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radioactive_16
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 360
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2947c97cd88d85b0800000000000000
+      internalID: -5364481100611106517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radioactive_17
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 328
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35fc3df3f219dc6c0800000000000000
+      internalID: -4121478451853799597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radioactive_18
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 328
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b840d5c27a60710800000000000000
+      internalID: 1659197321713585044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radioactive_19
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 296
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d7ca54eba3b9860800000000000000
+      internalID: 7537682990221786415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radioactive_20
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 296
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48904c023bb24f10800000000000000
+      internalID: 2252568587266988106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radioactive_21
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 296
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2978ac526da811e90800000000000000
+      internalID: -7056706488751192174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radioactive_22
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 296
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feba129f5d28ba3c0800000000000000
+      internalID: -4347237159776703505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radioactive_23
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 262
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9457bf8c918f90d0800000000000000
+      internalID: -3413867483097508707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radioactive_24
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 261
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7999b48be6e362420800000000000000
+      internalID: 2604838079739697559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radioactive_25
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 262
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a2c73e39dd804f0800000000000000
+      internalID: -862195701394953657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radioactive_26
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 261
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f57d0260b97e560800000000000000
+      internalID: 7343008168073977735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radioactive_27
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 232
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc80e809e042adfb0800000000000000
+      internalID: -4622342422569023283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radioactive_28
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 232
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354148b95ea076bf0800000000000000
+      internalID: -331284066315529133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radioactive_29
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 232
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784beb691550f7fe0800000000000000
+      internalID: -1189225928622951289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radioactive_30
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 232
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c270f017f33e83ef0800000000000000
+      internalID: -128102727760804052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radioactive_31
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 200
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f322ef1783c5b21b0800000000000000
+      internalID: -5680345107497344449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radioactive_32
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 200
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ecb67ba3022dbf0800000000000000
+      internalID: -301142788522914247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radioactive_33
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 200
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d82800eaa1d9460800000000000000
+      internalID: 7249980309771554137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radioactive_34
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 200
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85bfe1274c0682d70800000000000000
+      internalID: 9018564650653907800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radioactive_35
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 168
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cafe04dbb3018e30800000000000000
+      internalID: 4503885207598725833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radioactive_36
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 168
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d36b4129e4f179b0800000000000000
+      internalID: -5084013222201433133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radioactive_37
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 168
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c6768e6e2c29a00800000000000000
+      internalID: 761885583976393830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radioactive_38
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 168
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe5231e2b0e238150800000000000000
+      internalID: 5873588964573783535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radioactive_39
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 134
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 425660f0edd593590800000000000000
+      internalID: -7694015280069581532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radioactive_40
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 133
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6b0499682bdaf60800000000000000
+      internalID: 8047284400347461299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radioactive_41
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 134
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c1fc562cd05e320800000000000000
+      internalID: 2586488689577106519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radioactive_42
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 133
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1dd7b2bb85cc01f0800000000000000
+      internalID: -1077269007058871009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radioactive_43
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 104
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4220dd1b5dbf44490800000000000000
+      internalID: -7762802962449235420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radioactive_44
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 104
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc56ae362eec40700800000000000000
+      internalID: 505756529906574797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radioactive_45
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 104
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8960001709513a0800000000000000
+      internalID: -6695286456010237734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radioactive_46
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 104
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74526a7a1d9ed0640800000000000000
+      internalID: 5047947844022314311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radioactive_47
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 72
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2cc2e15fa28ea160800000000000000
+      internalID: 7038706957131369518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radioactive_48
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 72
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb395121120229f0800000000000000
+      internalID: -494830736460137507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radioactive_49
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 72
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d3773f3f62382c30800000000000000
+      internalID: 4334770094727459799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radioactive_50
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 72
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f94bafbeab3448910800000000000000
+      internalID: 1838669017976059039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radioactive_51
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 40
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b739fa52307d1f940800000000000000
+      internalID: 5328276242673144699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radioactive_52
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 40
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f0fce0f1f4b48a0800000000000000
+      internalID: -6319870657273327782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radioactive_53
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 40
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b026e13147c1dc0800000000000000
+      internalID: -3666928371123483764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radioactive_54
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 38
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3bb3f2ad92f1c1e0800000000000000
+      internalID: -2179193985812939974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radioactive_55
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 6
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 980b42348d94031d0800000000000000
+      internalID: -3373114927712259959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
