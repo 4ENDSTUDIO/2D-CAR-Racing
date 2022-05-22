@@ -5,7 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class GameManager : MonoBehaviour
 {
-    private int collectedCoins, victoryCondition = 2;
+    public int collectedCoins, victoryCondition = 2;
     private void Awake()
     {
         if (instance == null)

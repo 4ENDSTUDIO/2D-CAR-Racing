@@ -7,6 +7,7 @@ public class CarMovement : MonoBehaviour
     public float MaxSpeed;
     public float acc;
     public float steering;
+    public Timer timer;
 
     Rigidbody2D rb;
 
@@ -15,11 +16,17 @@ public class CarMovement : MonoBehaviour
 
     private void Start()
     {
+       
         rb = GetComponent<Rigidbody2D>();
     }
 
     private void Update()
     {
+        if(timer.currentTime == 0)
+        {
+            gameObject.SetActive(false);
+        }
+       
         X = Input.GetAxis("Horizontal");
         Y = Input.GetAxis("Vertical");
         Vector2 speed = transform.up * (Y * acc);
