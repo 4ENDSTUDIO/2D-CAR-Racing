@@ -5,6 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class GameManager : MonoBehaviour
 {
+    public GameObject Winner;
     public int collectedCoins, victoryCondition = 2;
     private void Awake()
     {
@@ -30,6 +31,7 @@ public class GameManager : MonoBehaviour
     }
     private void Start()
     {
+        Winner.SetActive(false);
         UIManager.Myinstance.UpdateCoinUI(collectedCoins, victoryCondition);
     }
     public void AddCoin(int _coin)
@@ -43,7 +45,9 @@ public class GameManager : MonoBehaviour
     {
         if(collectedCoins >= victoryCondition)
         {
-            SceneManager.LoadScene("Main");
+            Winner.SetActive(true);
+            Time.timeScale = 0;
+            //SceneManager.LoadScene("Main");
         }
         else
         {
